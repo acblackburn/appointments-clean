@@ -1,4 +1,4 @@
-# Modality Appointments Cleaning Script
+# Appointments Cleaning Script
 
 This is a simple Python command line program that takes the raw appointment data and cleans into a format that is easily interpreted by Google BigQuery and Data Studio.
 
